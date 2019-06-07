@@ -16,4 +16,4 @@ A function that gives us the ability to mount and unmount a component. This way 
 
  Or use a Less/Sass compiler which is similar to css exept can have nested styling.
 
- Or we can use styled Components which helps make our code cleaner and lets us remove class names.
+ Or we can use styled Components which helps make our code cleaner and lets us remove class names. 
